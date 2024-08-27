@@ -8,7 +8,7 @@ Firstly, open the run.ipynb in collab
 
 Then, follow the steps bellow:
 1. Create a folder in your Google Drive (for example: "my_data")
-2. Add your input data file (for example: data.csv) as a csv to this folder in your google drive;
+2. Add your input data file (for example: data.csv) as a csv to this folder in your Google Drive;
 
       The input file must be a csv file containing 16 columns, each column must contain in each row the value for the following variables for a patient:
 
@@ -31,6 +31,6 @@ Then, follow the steps bellow:
 
       Each row of the csv file must be a patient.  
 
-2. Edit the PATH_TO_OUTPUT_DIR and PATH_TO_INPUT_FILE in the cell below;
-3. Run all cells in this notebook;
-4. Predictions will be saved in the output folder indicated in the path.
+2. Edit the PATH_TO_OUTPUT_DIR and PATH_TO_INPUT_FILE in the indicated cell;
+3. Run all cells in the notebook;
+4. Predictions will be saved in the output folder indicated in the path, each row is the patient of the correspondig row of the input file.
