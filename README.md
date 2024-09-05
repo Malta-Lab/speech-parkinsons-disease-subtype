@@ -1,14 +1,20 @@
 # READ ME
+
+# About
+
+[TODO]
+
 # How to run
 
-Firstly, open the run.ipynb in collab
-<a target="_blank" href="https://colab.research.google.com/github/jmp-3/test-notebook/blob/main/run.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+Follow the steps bellow:
 
-Then, follow the steps bellow:
-1. Create a folder in your Google Drive (for example: "my_data")
-2. Add your input data file (for example: data.csv) as a csv to this folder in your Google Drive;
+1. Firstly, open the run.ipynb in collab <a target="_blank" href="https://colab.research.google.com/github/jmp-3/test-notebook/blob/main/run.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> (https://colab.research.google.com/github/jmp-3/test-notebook/blob/main/run.ipynb)
+
+2. Create a folder in your Google Drive named "my_data"
+
+3. Add your input data file (named data.csv) as a csv to this folder in your Google Drive;
 
       The input file must be a csv file containing 16 columns, each column must contain in each row the value for the following variables for a patient:
 
@@ -31,6 +37,8 @@ Then, follow the steps bellow:
 
       Each row of the csv file must be a patient.  
 
-2. Edit the PATH_TO_OUTPUT_DIR and PATH_TO_INPUT_FILE in the indicated cell;
-3. Run all cells in the notebook;
-4. Predictions will be saved in the output folder indicated in the path, each row is the patient of the correspondig row of the input file.
+4. Run all cells in the notebook (in the menu, select Runtime -> Run All);
+
+5. Allow permissions to access Google Drive Folders;
+
+6. Predictions will be saved in the output folder indicated in the path, each row is the patient of the correspondig row of the input file.
