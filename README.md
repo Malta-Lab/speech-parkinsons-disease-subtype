@@ -9,8 +9,8 @@
 Follow the steps bellow:
 
 1. Firstly, open the run.ipynb in collab <a target="_blank" href="https://colab.research.google.com/github/jmp-3/test-notebook/blob/main/run.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> (https://colab.research.google.com/github/jmp-3/test-notebook/blob/main/run.ipynb)
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> 
+(https://colab.research.google.com/github/jmp-3/test-notebook/blob/main/run.ipynb)
 
 2. Create a folder in your Google Drive named "my_data"
 
