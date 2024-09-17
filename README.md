@@ -2,8 +2,6 @@
 
 # About
 
-[TODO]
-
 # How to run
 
 Follow the steps bellow:
